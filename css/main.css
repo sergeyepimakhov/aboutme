@@ -75,7 +75,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #03af60;
+  color: #3f69aa;
   text-decoration: none;
 }
 
@@ -161,7 +161,7 @@ h6,
 ============================================= */
 
 .btn {
-  color: #03af60;
+  color: #3f69aa;
   font-size: 14px;
   font-weight: 300;
   line-height: 1;
@@ -169,7 +169,7 @@ h6,
   text-transform: uppercase;
   padding: 22px 35px;
   background-color: transparent;
-  border-color: #03af60;
+  border-color: #3f69aa;
   border-radius: 0;
   -webkit-transition: color .6s ease, background-color .6s ease;
   transition: color .6s ease, background-color .6s ease;
@@ -177,7 +177,7 @@ h6,
 
 .btn:hover,
 .btn:focus {
-  background-color: #03af60;
+  background-color: #3f69aa;
   color: #fff;
 }
 
@@ -204,13 +204,13 @@ h6,
 .btn.inverse {
   border: 0;
   color: #fff;
-  background-color: #03af60;
+  background-color: #3f69aa;
   padding: 23px 35px;
 }
 
 .btn.inverse:hover,
 .btn.inverse:focus {
-  color: #03af60;
+  color: #3f69aa;
   background-color: transparent;
 }
 
@@ -310,13 +310,13 @@ h6,
 
 .btn-dark:hover,
 .btn-dark:focus {
-  color: #03af60;
+  color: #3f69aa;
   background-color: #292929;
   border-color: #292929;
 }
 
 .btn-dark.inverse {
-  color: #03af60;
+  color: #3f69aa;
   background-color: #292929;
   border-color: #292929;
 }
@@ -399,7 +399,7 @@ h6,
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #03af60;
+  background-color: #3f69aa;
   -webkit-transform: translate(-120%, 0) skew(-20deg);
   -ms-transform: translate(-120%, 0) skew(-20deg);
   transform: translate(-120%, 0) skew(-20deg);
@@ -447,7 +447,7 @@ h6,
 
 .btn-glossy.inverse:hover,
 .btn-glossy.inverse:focus {
-  background-color: #03af60;
+  background-color: #3f69aa;
 }
 
 .btn-glossy.inverse:before {
@@ -459,7 +459,7 @@ h6,
 }
 
 .btn-glossy.inverse:hover span {
-  color: #03af60;
+  color: #3f69aa;
 }
 
 
@@ -524,7 +524,7 @@ h6,
 }
 
 .btn-glossy.btn-dark:hover span {
-  color: #03af60;
+  color: #3f69aa;
 }
 
 .btn-glossy.btn-dark.inverse {
@@ -532,11 +532,11 @@ h6,
 }
 
 .btn-glossy.btn-dark.inverse:before {
-  background-color: #03af60;
+  background-color: #3f69aa;
 }
 
 .btn-glossy.btn-dark.inverse span {
-  color: #03af60;
+  color: #3f69aa;
 }
 
 .btn-glossy.btn-dark.inverse:hover span {
@@ -1003,8 +1003,8 @@ Section
 }
 
 .timeline-item:hover .timeline-icon .icon {
-  background-color: #03af60;
-  border-color: #03af60;
+  background-color: #3f69aa;
+  border-color: #3f69aa;
   color: #fff;
 }
 
@@ -1062,7 +1062,7 @@ Section
 
 .timeline-item:hover .timeline-content h4,
 .timeline-item:hover .timeline-content h5 {
-  color: #03af60;
+  color: #3f69aa;
 }
 
 .timeline-content h5:after {
@@ -1115,7 +1115,7 @@ Section
   height: 3px;
   color: currentColor;
   font-size: 14px;
-  background-color: #03af60;
+  background-color: #3f69aa;
   border-radius: 50px;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -1132,7 +1132,7 @@ Section
 /* Color variations */
 
 .progress-bar-green {
-  background-color: #03af60;
+  background-color: #3f69aa;
 }
 
 .progress-bar-blue {
